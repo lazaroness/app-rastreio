@@ -1,7 +1,7 @@
 {
-  "name": "electron-quick-start",
+  "name": "rastreio-lazarone-s-santana",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Rastreamento de Objetos dos Correios - Lazarone S. Santana",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
@@ -9,12 +9,14 @@
   "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "rastreio",
+    "rastreamento",
+    "correios",
+    "objetos",
+    "lazarone",
+    "santana"
   ],
-  "author": "GitHub",
+  "author": "Lazarone S. Santana",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "~1.7.8"
