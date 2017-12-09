@@ -1,6 +1,6 @@
 {
   "name": "rastreio-lazarone-santana",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Rastreamento de Objetos dos Correios - Lazarone S. Santana",
   "main": "main.js",
   "scripts": {
