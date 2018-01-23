@@ -7,7 +7,7 @@
 git clone https://github.com/lazaroness/app-rastreio.git
 # Entre no repositório
 cd app-rastreio
-# Instale dependências
+# Instale as dependências
 npm install
 # Execute o aplicativo
 npm start
