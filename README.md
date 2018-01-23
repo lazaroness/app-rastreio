@@ -3,16 +3,16 @@
 **Aplicativo Desktop para rastreamento de objetos dos correios.**
 
 ```bash
-# Clone this repository
+# Clone este repositório
 git clone https://github.com/lazaroness/app-rastreio.git
-# Go into the repository
+# Entre no repositório
 cd app-rastreio
-# Install dependencies
+# Instale dependências
 npm install
-# Run the app
+# Execute o aplicativo
 npm start
 ```
 
-## License
+## Licença
 
 [CC0 1.0 (Public Domain)](LICENSE.md)
