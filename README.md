@@ -31,4 +31,4 @@ cp resources/app/app-rastreio.desktop /usr/share/applications/app-rastreio.deskt
 
 ## Licença
 
-[CC0 1.0 (Public Domain)](LICENSE.md)
+[CC0 1.0 (Domínio público)](LICENSE.md)
