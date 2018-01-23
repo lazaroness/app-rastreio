@@ -28,8 +28,8 @@
   self.consultar = function(){
     var codigo = document.getElementById("codigo").value
     var result = document.getElementById("result")
-    var url = "http://development.objectdata.com.br/api/correios/rastreio/" + codigo;
-    result.innerHTML = "<webview id='resultWebview' src='" + url + "' style='display:inline-flex; width: 100%; height: 400px'></webview>";
+    var url = "http://development.objectdata.com.br/api/correios/rastreio/" + codigo + "?api=true";
+    result.innerHTML = "<webview id='resultWebview' src='" + url + "' style='display:inline-flex; width: 100%; height: 450px'></webview>";
   }
 </script>
 </body>
