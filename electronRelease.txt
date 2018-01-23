@@ -1,0 +1,12 @@
+﻿https://www.christianengvall.se/electron-packager-tutorial/
+
+electron-packager . electron-tutorial-app --overwrite --asar=true --platform=win32 --arch=ia32 --icon=assets/icons/win/icon.ico --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName="Electron Tutorial App"
+
+electron-packager . app-rastreio-lazaronesantana.com --overwrite --asar=true --platform=win32 --arch=ia32 --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName="App Rastreio - Lazarone Santana"
+
+electron-packager . app-rastreio-lazaronesantana.com --overwrite --asar=true --platform=linux --arch=x64 --prune=true --out=release-builds
+
+electron-packager . --overwrite --platform=darwin --arch=x64 --prune=true --out=release-builds
+
+https://github.com/unindented/electron-installer-debian
+https://www.npmjs.com/package/electron-packager
