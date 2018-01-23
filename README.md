@@ -27,7 +27,7 @@ cp resources/app/app-rastreio.desktop /usr/share/applications/app-rastreio.deskt
 
 ![Inicial](./img/app-linux.png)
 
-![Executando](./video/app.mp4)
+[Executando](./video/app.mp4)
 
 <!--![Inicial](./img/app-win.png)-->
 
