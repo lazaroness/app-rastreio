@@ -27,7 +27,7 @@ cp resources/app/app-rastreio.desktop /usr/share/applications/app-rastreio.deskt
 
 ![Inicial](./img/app-linux.png)
 
-![Inicial](./img/app-win.png)
+<!--![Inicial](./img/app-win.png)-->
 
 ## Licença
 
