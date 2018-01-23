@@ -13,7 +13,7 @@ npm install
 npm start
 ```
 
-# Install
+# Install Linux
 
 ```
 su -
