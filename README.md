@@ -15,6 +15,8 @@ npm start
 
 ![Inicial](./img/Screenshot_1.png)
 
+![Resultado](./img/Screenshot_2.png)
+
 ## Licença
 
 [CC0 1.0 (Public Domain)](LICENSE.md)
