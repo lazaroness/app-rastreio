@@ -14,6 +14,7 @@ npm start
 ```
 
 ![Inicial](./img/Screenshot_1.png)
+
 ![Resultado](./img/Screenshot_2.png)
 
 ## Licença
