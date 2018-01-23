@@ -13,6 +13,18 @@ npm install
 npm start
 ```
 
+# Install
+
+```
+su -
+npm install -g electron-packager
+electron-packager . app-rastreio --platform linux --arch x64 --out /usr/share/
+mv /usr/share/app-rastreio-linux-x64/ /usr/share/app-rastreio/
+cd /usr/share/app-rastreio/
+cp resources/app/img/app-rastreio.png /usr/share/icons
+cp resources/app/app-rastreio.desktop /usr/share/applications/app-rastreio.desktop
+```
+
 ![Inicial](./img/app-linux.png)
 
 ![Inicial](./img/app-win.png)
