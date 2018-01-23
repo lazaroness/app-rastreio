@@ -29,6 +29,8 @@ cp resources/app/app-rastreio.desktop /usr/share/applications/app-rastreio.deskt
 
 [Executando](./video/app.mp4)
 
+[![Executando a aplicação](./img/app-linux.png)](./video/app.mp4)
+
 <!--![Inicial](./img/app-win.png)-->
 
 ## Licença
