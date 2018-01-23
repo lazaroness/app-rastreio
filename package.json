@@ -1,6 +1,6 @@
 {
-  "name": "rastreio-lazarone-santana",
-  "version": "0.0.1",
+  "name": "app-rastreio",
+  "version": "0.0.2",
   "description": "Rastreamento de Objetos dos Correios - Lazarone S. Santana",
   "main": "main.js",
   "scripts": {
@@ -14,9 +14,11 @@
     "correios",
     "objetos",
     "lazarone",
-    "santana"
+    "santana",
+    "app-rastreio",
+    "lazaroness"
   ],
-  "author": "Lazarone S. Santana",
+  "author": "Lazarone S. Santana <lazarone.info.web@gmail.com>",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "~1.7.8"
