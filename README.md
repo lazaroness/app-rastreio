@@ -31,6 +31,7 @@ cp resources/app/app-rastreio.desktop /usr/share/applications/app-rastreio.deskt
 
 [![Executando a aplicação](./img/app-linux.png)](./video/app.mp4)
 
+[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
 <!--![Inicial](./img/app-win.png)-->
 
 ## Licença
