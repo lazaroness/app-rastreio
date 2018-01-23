@@ -13,7 +13,9 @@ npm install
 npm start
 ```
 
-![Inicial](./img/app.png)
+![Inicial](./img/app-linux.png)
+
+![Inicial](./img/app-win.png)
 
 ## Licença
 
