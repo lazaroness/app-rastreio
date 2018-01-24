@@ -17,9 +17,13 @@ npm start
 
 [![Windows](./img/windows.png)](https://github.com/lazaroness/app-rastreio/raw/master/dist/setup-app-rastreio.exe)
 
+\
 
+\
 
+\
 
+\
 
 # Install Linux
 
