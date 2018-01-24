@@ -15,7 +15,7 @@ npm start
 
 # Downloads
 
-[![Windows](./img/windows.png)](https://github.com/lazaroness/app-rastreio/raw/master/dist/setup-app-rastreio.exe)
+[![Windows](./img/windows.png)](https://github.com/lazaroness/app-rastreio/raw/master/dist/setup-app-rastreio.exe)  |  
 [![Linux Debian](./img/debian.png)](https://github.com/lazaroness/app-rastreio/raw/master/dist/setup-app-rastreio.deb)
 
 
