@@ -27,6 +27,15 @@ cp resources/app/app-rastreio.desktop /usr/share/applications/app-rastreio.deskt
 
 [![Executando a aplicação no Kali Linux](./img/app-linux.png)](https://youtu.be/NZFvL4svFi0)
 
+# Gerando o executavel e executando no Windows
+
+```
+npm install -g electron-packager
+electron-packager . app-rastreio --overwrite --platform=win32 --arch=ia32 --icon=img/app-rastreio.ico --prune=true --out=release-builds
+cd release-builds/app-rastreio-win32-ia32/
+duplo clique no arquivo app-rastreio.exe
+```
+
 [![Executando a aplicação no Windows 10](./img/app-win.png)](https://youtu.be/NZFvL4svFi0)
 
 ## Licença
