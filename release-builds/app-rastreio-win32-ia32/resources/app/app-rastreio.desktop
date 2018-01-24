@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=App Rastreio
+Comment=Aplicação Desktop para rastreio de objetos dos correios.
+GenericName=App Rastreio
+Exec=/usr/share/app-rastreio/rastreio %F
+Icon=app-rastreio
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Utility;TextEditor;Development;
+MimeType=text/plain;

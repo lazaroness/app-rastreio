@@ -25,9 +25,9 @@ cp resources/app/img/app-rastreio.png /usr/share/icons
 cp resources/app/app-rastreio.desktop /usr/share/applications/app-rastreio.desktop
 ```
 
-[![Executando a aplicação](./img/app-linux.png)](https://youtu.be/NZFvL4svFi0)
+[![Executando a aplicação no Kali Linux](./img/app-linux.png)](https://youtu.be/NZFvL4svFi0)
 
-<!--![Inicial](./img/app-win.png)-->
+[![Executando a aplicação no Windows 10](./img/app-win.png)](https://youtu.be/NZFvL4svFi0)
 
 ## Licença
 
