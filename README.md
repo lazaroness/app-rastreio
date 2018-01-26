@@ -15,8 +15,8 @@ npm start
 
 # Downloads
 
-[![Windows](./img/windows.png)](https://github.com/lazaroness/app-rastreio/raw/master/dist/setup-app-rastreio.exe)
-[![Linux Debian](./img/debian.png)](https://github.com/lazaroness/app-rastreio/raw/master/dist/setup-app-rastreio.deb)
+[![Windows](./app/img/windows.png)](https://github.com/lazaroness/app-rastreio/raw/master/dist/setup-app-rastreio.exe)
+[![Linux Debian](./app/img/debian.png)](https://github.com/lazaroness/app-rastreio/raw/master/dist/setup-app-rastreio.deb)
 
 
 # Install Linux
@@ -31,7 +31,7 @@ cp resources/app/img/app-rastreio.png /usr/share/icons
 cp resources/app/app-rastreio.desktop /usr/share/applications/app-rastreio.desktop
 ```
 
-[![Executando a aplicação no Kali Linux](./img/app-linux.png)](https://youtu.be/NZFvL4svFi0)
+[![Executando a aplicação no Kali Linux](./app/img/app-linux.png)](https://youtu.be/NZFvL4svFi0)
 
 # Gerando o executavel e executando no Windows
 
@@ -42,7 +42,7 @@ cd release-builds/app-rastreio-win32-ia32/
 duplo clique no arquivo app-rastreio.exe
 ```
 
-[![Executando a aplicação no Windows 10](./img/app-win.png)](https://youtu.be/NZFvL4svFi0)
+[![Executando a aplicação no Windows 10](./app/img/app-win.png)](https://youtu.be/NZFvL4svFi0)
 
 ## Licença
 
